@@ -1,6 +1,6 @@
 # README
 
-##usersテーブル
+## usersテーブル
 
 |Column|Type|Options|
 |------|----|-------|
@@ -12,7 +12,7 @@
 - belongs_to :messages
 - belongs_to :groups
 
-##messagesテーブル
+## messagesテーブル
 
 |Column|Type|Options|
 |------|----|-------|
@@ -25,7 +25,7 @@
 - belongs_to :users
 - belongs_to :groups
 
-##groupsテーブル
+## groupsテーブル
 
 |Column|Type|Options|
 |------|----|-------|
